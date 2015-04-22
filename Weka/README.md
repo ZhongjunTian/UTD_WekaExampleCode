@@ -1,6 +1,10 @@
-Example code to show how to use four algorithms in weka API to do crossvalidation and train & test model for "arff" format data
+Use Weka API to do crossvalidation, train model, test model(classify) 
 
-Algorithms: J48(decision tree) Knn NaiveBayes SMO(Support Vector Machine?)
+Algorithms: 
+J48(decision tree) 
+Knn 
+NaiveBayes 
+SMO(Support Vector Machine?)
 
 V1.0
 Main Function is WekaMain.java
